@@ -1,0 +1,30 @@
+
+Introduction to type in types in Typescript ?
+
+-- In Typescript , type annotation is a way of explicitily specifying the type of variable, 
+function paramwter, or function return value. 
+
+<<---- Advantages of type annotation ---->>
+
+1 . It helps the Typescript compilar to enforce type checking and provide type safety during development.
+
+2 . What operations could we performed on that variable or value .
+
+3 .  Type annotation are expressed by using a colon (:) followed by the desired type after the variable or function parameter declaration. There can be a space after the colon
+ 
+
+
+ ---- Number Type ---
+
+ => The number type represents numeric values, including integers and floating-point numbers.
+
+ => TODO Arithmetic Operations :-
+
+Number types in Typescript supports arithmetic operations such Advantages + , - , * , / 
+The results of there operations on number are also of type number. 
+
+
+
+---- String Type ----
+
+=> Any value under single of double quotes are treated as string, Also any exp. result string as output
