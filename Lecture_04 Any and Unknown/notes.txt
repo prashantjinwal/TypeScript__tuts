@@ -1,0 +1,20 @@
+<<---- Any Type ---->>
+
+=> The any type is the most flexible type in Typescript. it essentailly
+turn off all type checking for the varible or expression it is applied to.
+
+UseCase-->
+
+working with dynamic data : when dealing with data from dynamic soures
+like user input, network responses, or deserialized JSON Object, 
+working with APIs than "Any" type can be useful.
+
+
+<<---- Unknown Type ---->>
+
+=> The Unknown type is a safer alternative to 'any' because it still
+enforces type checking and type safety.
+
+varible of type Unknown can hold value of any type, but you must 
+perform type checks or type assertions before using them in specific ways
+
