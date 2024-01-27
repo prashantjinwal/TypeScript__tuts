@@ -1,0 +1,17 @@
+<<---- Boolean Type ---->>
+
+=> In typescript, the Boolean type represents a value that can be either true or fasle.
+   it is one of the basic primitive types in the language.
+
+
+<<---- BigInt Type ---->>
+
+=> It is a bulit-in type that allows you to work with numbers that 
+are larger than the range supported by the regular number type .
+
+=> BigInt literals are written by appending the and suffix to an 
+integer literals.
+
+=> In JS we can't read the whole number beyond 2 rasie to power 53
+
+
