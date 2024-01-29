@@ -1,0 +1,30 @@
+--- Type inference ---
+
+Type inference in Typescript refers to the ability of the 
+Typescript compiler to automatically determine and assign types to 
+variable, expressions, and function return values based on their usage and context in the code.
+
+-todo what are some best practices for using type inference in Typescript?
+
+=> Use type inference for simple cases where the assigned 
+value clearly indicates the intended type.
+
+=> When in doubt, provide explicit type annotation to make 
+your intentions clear.
+
+=> avoid replying too heavily on type inference when the assigned value 
+is complex or ambiguous.
+
+=> Regularly review and refactor your code to ensure that  inferred types
+align with your intentons.
+
+
+
+
+---- ---- Optional and Default Parameter ---- ----
+
+Typescript allows you to define optional and Default practices in functions. 
+optional Parameter are denoted by appending a ? symbol after the Parameter name,
+and Default Parameter are specified by providing a Default value in the Parameter 
+
+
