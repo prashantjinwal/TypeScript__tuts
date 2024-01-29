@@ -1,0 +1,13 @@
+--- functions Invocation ---
+=>  To execute a function, you simply invoke it by using its name followed
+ by parentheses.
+
+=> You can provide arguments (actual values) for the parameters defined in the
+function declaration.
+
+--- function return type ---
+how do you specify the return type of a function in Typescript?
+
+=> To specify the return type of a function , you can use the colon (:)
+followed by the desired type after the function's parameter list.
+
