@@ -1,1 +1,1 @@
-# TypeScript__tuts
+# TypeScript__
